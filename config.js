@@ -13,12 +13,12 @@ var CONFIG = {
 
     newsContent: [
         // { img: '', title: '', data: '', text: '' }
-        { img: 'https://cdn.discordapp.com/attachments/976906269266964500/976906359977181204/logo12-1024x1024.png', title: 'НОВОСТ', data: '21.05.2022г.', text: 'ПРОСТО НОВОСТ' }
+        { img: 'https://cdn.discordapp.com/attachments/976906269266964500/976906359977181204/logo12-1024x1024.png', title: 'Стартиране на сървъра', data: '1.10.2023г.', text: 'НАЧАЛОТО НА CCRP!' }
     ],
 
     contactsContent: [
         // { avatar: '', title: '', status: '', desc: '' }
-        { avatar: 'https://cdn.discordapp.com/attachments/976906269266964500/976906359977181204/logo12-1024x1024.png', title: 'НАШ ЧОВЕК', status: 'БАЧКА ЗА НАС', desc: 'ПИЧ' }
+        { avatar: 'https://cdn.discordapp.com/attachments/1137413920471130232/1137414212105289798/15.png?ex=651ae888&is=65199708&hm=9e2359fed882e214ad815f080b5a679928e37d8e142b9c31d0020855f7fec127&', title: 'Em0Bulgaria', status: 'Бот', desc: 'Някакъв рандом' }
     ],
 
     rulesContent: [
@@ -29,9 +29,9 @@ var CONFIG = {
             ]
         } */
         {
-            title: 'ПРАВИЛО',
+            title: 'Може да ги намерите в дискорд!',
             text: [
-                { t: 'ТУКА НЕЩО!' }
+                { t: 'Правилата са в дискорд!' }
             ]
         }
     ]
